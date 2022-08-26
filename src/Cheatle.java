@@ -17,6 +17,8 @@ private TreeSet<Character> possibleLetters;
 private int numGuesses;
 private TreeSet<Character> alphabet;
 
+// comment for saving in GitKraken
+
 	//Reads the dictionaryFile and puts all the allowed guesses into a data structure,
 	//and also reads the solutionFile and puts all the possible solutions into a data structure,
 	//also adding all the possible solutions to the allowed guesses.
